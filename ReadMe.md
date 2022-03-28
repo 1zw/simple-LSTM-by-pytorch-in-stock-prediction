@@ -7,3 +7,9 @@
 # 缺陷和后续改进
 * 只用了Lstm层，没有使用GRU和CNN
 * 后续会尝试添加Conv1D，有时间的话
+# git的简单操作
+'''
+git init
+git add .
+git push -u remote repo
+'''
