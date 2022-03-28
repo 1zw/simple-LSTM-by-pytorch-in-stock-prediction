@@ -9,7 +9,7 @@
 * 后续会尝试添加Conv1D，有时间的话
 # git的简单操作
 '''
-git init
-git add .
-git push -u remote repo
+- git init
+- git add .
+- git push -u remote repo
 '''
